@@ -30,7 +30,7 @@ with open("class_names.pkl", "rb") as f:
 # App title
 # -------------------------
 st.title("Butterfly Species Classifier 🦋")
-st.write("Upload an image of a butterfly and the model will predict its species specially if its prats or shrssss 😋😋😋. Guys Alik dhang ko pictures hai")
+st.write("Upload an image of a butterfly and the model will predict its species. Broadway Infosis Final Project Machine learning.")
 
 # -------------------------
 # File uploader
